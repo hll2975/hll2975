@@ -13,7 +13,7 @@ Soy Analista en Sistemas y Desarrollador Full Stack con pasión por la creación
 
    🌐 Conéctate conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernán-luis-lang/)
-[![Mi CV](https://img.shields.io/badge/Mi%20CV-Enlace-blue?style=for-the-badge)](https://hll2975.github.io/M-Hoja-de-Vida-/
+[![Mi CV](https://img.shields.io/badge/Mi%20CV-Enlace-blue?style=for-the-badge)](https://hll2975.github.io/M-Hoja-de-Vida-/)
 
 <!--
 **hll2975/hll2975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
