@@ -12,7 +12,7 @@ Soy Analista en Sistemas y Desarrollador Full Stack con pasión por la creación
 - Deep Learning aplicado a datos
 
    🌐 Conéctate conmigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernan-lang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernán-luis-lang/)
 [![Mi CV](https://img.shields.io/badge/Mi%20CV-Enlace-blue?style=for-the-badge)](https://hll2975.github.io/M-Hoja-de-Vida-/
 
 <!--
