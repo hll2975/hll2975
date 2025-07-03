@@ -2,7 +2,7 @@
 Soy Analista en Sistemas y Desarrollador Full Stack con pasión por la creación de soluciones IT eficientes. Especializado en Python, desarrollo web y análisis de infraestructura.
  
   🚀 Tecnologías que me apasionan:
-- **Lenguajes:** Python, JavaScript, SQL, HTML, CSS
+- **Lenguajes:** Python, JavaScript, SQL, HTML, CSS, VisualBasic.Net, VisualBasic, C#,
 - **Frameworks:** Django, Flask, .NET
 - **Bases de Datos:** PostgreSQL, MySQL, SQL Server
 - **Herramientas:** Git, Docker, Power BI, Jira
