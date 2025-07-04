@@ -1,6 +1,8 @@
   ¡Hola! Soy Hernán Luis Lang 👋
 Soy Analista en Sistemas y Desarrollador Full Stack con pasión por la creación de soluciones IT eficientes. Especializado en Python, desarrollo web y análisis de infraestructura.
- 
+
+ Apasionado/a por el código y la resolución de problemas. En este espacio comparto mi evolución como desarrollador/a, desde proyectos personales hasta contribuciones profesionales, con el objetivo de construir tecnología que impacte positivamente
+  
   🚀 Tecnologías que me apasionan:
 - **Lenguajes:** Python, JavaScript, SQL, HTML, CSS, VisualBasic.Net, VisualBasic, C#,
 - **Frameworks:** Django, Flask, .NET
